@@ -3,9 +3,11 @@
     margin: 0;
     padding: 0;
 }
-header{
+
+header {
     margin: 40px 0 150px 42px;
 }
+
 .link-header {
     color: #17233D;
     font-size: 14px;
@@ -14,4 +16,18 @@ header{
     letter-spacing: 0.88px;
     margin-right: 35px;
     cursor: pointer;
+}
+
+.button-header {
+    width: 124px;
+    height: 51px;
+    background: #6FBF44;
+    border-radius: 6px;
+    border: 1px #4CB538 solid;
+    line-height: 51px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+
 }
