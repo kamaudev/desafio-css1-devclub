@@ -31,3 +31,8 @@ header {
     letter-spacing: 1px;
 
 }
+.image-main{
+    width: 595px;
+    height: 500px;
+    margin-left: 96px;
+}
