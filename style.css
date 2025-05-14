@@ -31,12 +31,24 @@ header {
     letter-spacing: 1px;
 
 }
-.image-main{
+
+.image-main {
     width: 595px;
     height: 500px;
     margin-left: 96px;
     display: inline-block;
 }
-section{
+
+section {
     display: inline-block;
+}
+
+h1 {
+    color: #161A49;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.60px;
+    width: 582px;
+
 }
