@@ -35,4 +35,5 @@ header {
     width: 595px;
     height: 500px;
     margin-left: 96px;
+    display: inline-block;
 }
