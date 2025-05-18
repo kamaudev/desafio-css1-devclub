@@ -85,5 +85,13 @@ p {
     top: 18px;
     right: 18px;
    }
+   .image-main {
+    width: 312px;
+    height:288px;
+    display: block;
+    position: absolute;
+    bottom: 2vh;
+    margin: 0 50px;
+}
     
 }
