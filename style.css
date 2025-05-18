@@ -76,22 +76,33 @@ p {
     line-height: 27px;
     cursor: pointer;
 }
-@media screen and (max-width:600px){
-   .link-header{
-    display: none;
-   }
-   .button-header{
-    position: absolute;
-    top: 18px;
-    right: 18px;
-   }
-   .image-main {
-    width: 312px;
-    height:288px;
-    display: block;
-    position: absolute;
-    bottom: 2vh;
-    margin: 0 50px;
-}
-    
+
+@media screen and (max-width:600px) {
+    .link-header {
+        display: none;
+    }
+
+    .button-header {
+        position: absolute;
+        top: 18px;
+        right: 18px;
+    }
+
+    .image-main {
+        width: 312px;
+        height: 288px;
+        display: block;
+        position: absolute;
+        bottom: 2vh;
+        margin: 0 50px;
+    }
+
+    h1 {
+        font-size: 30px;
+        line-height: 30px;
+        width: 280px;
+        margin: 0 55px;
+        text-align: center;
+    }
+
 }
