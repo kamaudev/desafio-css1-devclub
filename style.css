@@ -112,4 +112,9 @@ p {
 
     }
 
+    .link-section {
+        position: absolute;
+        left: 140px;
+    }
+
 }
