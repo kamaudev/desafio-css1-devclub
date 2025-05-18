@@ -76,3 +76,6 @@ p {
     line-height: 27px;
     cursor: pointer;
 }
+@media screen and (max-width:600px){
+    
+}
