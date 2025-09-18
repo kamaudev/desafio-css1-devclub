@@ -99,6 +99,7 @@ section {
     main {
         flex-direction: column;
     }
+
     .link-header {
         display: none;
     }
@@ -138,11 +139,12 @@ section {
     .link-section {
         position: absolute;
         left: 15px;
-        top:35vh;
+        top: 35vh;
         width: 200px;
     }
-section {
-    position: absolute;
-    margin-left: 75px;
-}
+
+    section {
+        position: absolute;
+        margin-left: 75px;
+    }
 }
